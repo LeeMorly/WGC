@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Wolf_Goat_Cabbage.unity
+  isLoaded: 1
+  isActive: 1

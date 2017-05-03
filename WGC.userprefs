@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\UnityLesson02_Space-Shooter\Assets\Scripts\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Enums.cs" Line="22" Column="2" />
+      <File FileName="..\LayOutSystem_Buttons\Assets\Scripts\_Buttons.cs" Line="11" Column="39" />
+      <File FileName="..\LayOutSystem_Buttons\Assets\Scripts\_Buttons_Scroll.cs" Line="24" Column="64" />
+      <File FileName="Assets\_Passangers.cs" Line="13" Column="2" />
+      <File FileName="Assets\_Wolf.cs" Line="6" Column="2" />
+      <File FileName="Assets\Goat.cs" Line="6" Column="2" />
+      <File FileName="Assets\Cabbage.cs" Line="11" Column="1" />
+      <File FileName="Assets\Transporter.cs" Line="14" Column="2" />
+      <File FileName="Assets\Boat.cs" Line="21" Column="50" />
+      <File FileName="..\UnityLesson02_Space-Shooter\Assets\Scripts\PlayerController.cs" Line="9" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

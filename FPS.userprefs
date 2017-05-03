@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_WGC.cs">
+    <Files>
+      <File FileName="Assets\Ship.cs" Line="1" Column="1" />
+      <File FileName="Assets\ReactiveTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets\WanderingAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\_ShuttleBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SHIP_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\_ShipSceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\RayShooter.cs" Line="1" Column="1" />
+      <File FileName="..\Massives\Assets\Scrips\TastEnum.cs" Line="1" Column="1" />
+      <File FileName="Assets\_WolfGoatCabbage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\_Editor.cs" Line="1" Column="1" />
+      <File FileName="Assets\_LoadAssets.cs" Line="1" Column="1" />
+      <File FileName="Assets\SceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\CubePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\_WGC.cs" Line="46" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
