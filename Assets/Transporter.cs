@@ -7,8 +7,8 @@ public abstract class Transporter : MonoBehaviour {
 	public Transform dzRight;
 	public Transform dzLeft;
 
-	public abstract void MoveToLeft (Boat boat );
-	public abstract void MoveToRight (Boat boat );
+	public abstract void MoveToLeft ();
+	public abstract void MoveToRight ();
 	public abstract void PickUp (_Passangers Pas);
 	public abstract void LeaveUp (_Passangers Pas); 
 

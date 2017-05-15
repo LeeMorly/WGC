@@ -1,17 +1,19 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\UnityLesson02_Space-Shooter\Assets\Scripts\PlayerController.cs">
+﻿<Properties StartupItem="WGC.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Boat.cs">
     <Files>
-      <File FileName="Assets\Enums.cs" Line="22" Column="2" />
-      <File FileName="..\LayOutSystem_Buttons\Assets\Scripts\_Buttons.cs" Line="11" Column="39" />
-      <File FileName="..\LayOutSystem_Buttons\Assets\Scripts\_Buttons_Scroll.cs" Line="24" Column="64" />
-      <File FileName="Assets\_Passangers.cs" Line="13" Column="2" />
-      <File FileName="Assets\_Wolf.cs" Line="6" Column="2" />
-      <File FileName="Assets\Goat.cs" Line="6" Column="2" />
-      <File FileName="Assets\Cabbage.cs" Line="11" Column="1" />
-      <File FileName="Assets\Transporter.cs" Line="14" Column="2" />
-      <File FileName="Assets\Boat.cs" Line="21" Column="50" />
-      <File FileName="..\UnityLesson02_Space-Shooter\Assets\Scripts\PlayerController.cs" Line="9" Column="51" />
+      <File FileName="Assets\_Wolf.cs" Line="9" Column="52" />
+      <File FileName="Assets\GameController.cs" Line="20" Column="3" />
+      <File FileName="Assets\Goat.cs" Line="19" Column="69" />
+      <File FileName="Assets\_Passangers.cs" Line="8" Column="2" />
+      <File FileName="Assets\Boat.cs" Line="30" Column="3" />
+      <File FileName="Assets\Transporter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Cabbage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Enums.cs" Line="1" Column="1" />
+      <File FileName="Assets\Destination.cs" Line="8" Column="2" />
+      <File FileName="Assets\LeftBank.cs" Line="9" Column="2" />
+      <File FileName="Assets\RightBank.cs" Line="7" Column="4" />
+      <File FileName="..\Scripts\Assets\Lift1MoveLerp.cs" Line="19" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

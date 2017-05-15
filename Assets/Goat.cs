@@ -4,19 +4,22 @@ using UnityEngine;
 
 public class Goat :_Passangers {
 	public float speed;
-	public override void ChooseEat(_Passangers gm){
-
-		Destroy (gm);
-	}	
-	public override void TakeSeat(_Passangers goat)
+//	public override void ChooseEat(_Passangers gm)
+//	{
+//
+//		Destroy (gm);
+//	}	
+//	public override void TakeSeat(_Passangers goat)
+//	{
+//		goat.transform.SetParent (Boat.transform, false);
+//	}
+	public override void TakeBank(Transform target)
 	{
-		goat.transform.SetParent (Boat.transform, false);
-	}
-	public override void TakeBank(_Passangers goat,Vector3 target)
-	{
-		goat.transform.SetParent (Transporter.dzRight.transform, false);
-		float step = speed * Time.deltaTime;
-		transform.position = Vector3.MoveTowards (transform.localPosition, target, step); 
+		
+		
+		float step = speed;
+		this.transform.position = Vector3.MoveTowards (this.transform.position, target.transform.position, step); 
+		//this.transform.SetParent (target.transform.position, true);
 	}
 
 }
